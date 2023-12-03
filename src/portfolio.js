@@ -271,7 +271,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://netflix-clone-qurpbnz2f-rajgohel.vercel.app/auth"
+          url: "https://nflix-simple.vercel.app"
         }
         //  you can add extra buttons here.
       ]
