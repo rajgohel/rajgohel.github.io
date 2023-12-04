@@ -261,7 +261,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Side Projects",
+  title: "Projects",
   // subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
@@ -275,6 +275,31 @@ const bigProjects = {
         }
         //  you can add extra buttons here.
       ]
+    },
+    {
+      image: require("./assets/images/TMS.png"),
+      projectName: "Tender Management Project",
+      projectDesc: "The idea behind this project is to give analytics for tenders by representation of graphs and manage tenders and companies. Companies also have employees which has different roles and rights. This system typically refers to a platform that helps businesses analyse and gain insights from tender processes, which involve the data visibility, Project information, understand behavioural pattern of buyer, bids or proposals, contracts, or projects ratings.",
+    },
+    {
+      image: require("./assets/images/CMS.png"),
+      projectName: "Content Management System",
+      projectDesc: "The purpose of this project is to provide a content management system (CMS) for managing users in various roles and site template data for numerous websites. The project comprises three modules. 1) Control panel, 2) Channel - webpages 3. The back end. Super admin has the ability to create sites and site pages, choose page components, and oversee. Component positions and data, as well as user roles and rights management.",
+    },
+    {
+      image: require("./assets/images/Fintech.jpg"),
+      projectName: "Fintech Project",
+      projectDesc: "Offering a tool for forecasting business revenue at the time of foundation was the idea behind this project. Round data, including seed, preferred, and founder, must be entered by the user. We offer tables and graphs that use certain known computations to predict spending and revenue data. Feature flag functionality was developed so that each feature could be handled separately during development. The user can choose to work as a guest user, in which case data will be saved in the database upon logging in.",
+    },
+    {
+      image: require("./assets/images/healthcare.jpg"),
+      projectName: "Web App (Healthcare domain)",
+      projectDesc: "Managing data from a particular organization related to R&D is the aim of this project. There are five modules in the project. The user can drag and drop the annotations and wireframes that are included in the application. On other users' annotations, they are also able to leave comments. The chatbot can be instructed to carry out certain tasks while being evaluated by the user.",
+    },
+    {
+      image: require("./assets/images/PMT.jpg"),
+      projectName: "Project Management System",
+      projectDesc: "This project's concept is to organize project activities top-down in a manner similar to Kanban. A task can be created by the user, who can then designate a specific developer, complete the task description, set a deadline and priority, and assign the assignment. The task at hand can be shifted between columns labeled in-progress, tested, and done.",
     }
   ],
   display: true // Set false to hide this section, defaults to true
