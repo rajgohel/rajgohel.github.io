@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.3cf13eba.css",
-    "main.js": "/static/js/main.44f22715.js",
+    "main.js": "/static/js/main.b882f9fb.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
     "static/media/netflix.png": "/static/media/netflix.4776e0ab106358af8890.png",
+    "static/media/healthcare.jpg": "/static/media/healthcare.fe7fa13f1205ad8b122a.jpg",
     "static/media/azure.png": "/static/media/azure.5a694f18b0e4f276ce48.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/TMS.png": "/static/media/TMS.94e26a4bab1ef4820ee4.png",
+    "static/media/Fintech.jpg": "/static/media/Fintech.0b483fa9b785d66bf990.jpg",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/postgresql.png": "/static/media/postgresql.4a8c66c90ba3b5e27f7c.png",
+    "static/media/PMT.jpg": "/static/media/PMT.c22fac099499b7c98555.jpg",
     "static/media/typescript.png": "/static/media/typescript.659e4b9351cf1baa6930.png",
     "static/media/graphql.png": "/static/media/graphql.1224fc6637ab2be805ae.png",
     "static/media/aws.png": "/static/media/aws.850296a094250f4a242e.png",
@@ -21,6 +25,7 @@
     "static/media/bootstrap.png": "/static/media/bootstrap.296ada9de9aa6b2d7ceb.png",
     "static/media/d3.png": "/static/media/d3.4ceb00cfe236272797c4.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/CMS.png": "/static/media/CMS.8f6d581a90923ac71e87.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/react.png": "/static/media/react.e71f4c5b0c4306d65355.png",
     "static/media/node.png": "/static/media/node.c6649cb118c1ede849ad.png",
@@ -32,7 +37,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.3cf13eba.css.map": "/static/css/main.3cf13eba.css.map",
-    "main.44f22715.js.map": "/static/js/main.44f22715.js.map",
+    "main.b882f9fb.js.map": "/static/js/main.b882f9fb.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -40,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.3cf13eba.css",
-    "static/js/main.44f22715.js"
+    "static/js/main.b882f9fb.js"
   ]
 }
