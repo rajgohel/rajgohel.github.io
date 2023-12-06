@@ -231,21 +231,33 @@ const workExperiences = {
       company: "Dev Information Technology Ltd",
       companylogo: require("./assets/images/devit.png"),
       date: "Aug 2022 – Present",
-      desc: "As a Frontend Developer, my duties included managing the development of the modules assigned to me and assisting the team in times of need. I contributed to the wireframing, prototyping, component design for reusability, and research phases. I also participated on the daily scrum call and understood the requirements via the call, email, and corresponding stack holder."
+      desc: "As a Frontend Developer, my duties included managing the development of the modules assigned to me and assisting the team in times of need.",
+      descBullets: [
+        "I contributed to the wireframing, prototyping, component design for reusability, and research phases.",
+        "Led the implementation of new front-end development of the CMS project team. Attained quantifiable success in raising page load times by 20%.",
+        "Adept at working with cross-functional teams to complete projects on schedule and within budget."
+      ]
     },
     {
       role: "Sr. Software Developer",
       company: "SharepointEmpower Pvt. Ltd.",
       companylogo: require("./assets/images/spe.jpg"),
       date: "Nov 2019 – Jul 2022",
-      desc: "I was in charge of reviewing code for quality and functionality as a senior software developer.drafting and carrying out design blueprints. I also participated on the daily scrum call and understood the requirements via the call, email, and corresponding stack holder. creating, evaluating, and deploying new features in accordance with customer needs."
+      desc: "I was in charge of reviewing code for quality and functionality as a senior software developer.drafting and carrying out design blueprints.",
+      descBullets: [
+        "Participated on the daily scrum call and understood the requirements via the call, email, and corresponding stack holder. Creating, evaluating, and deploying new features in accordance with customer needs.",
+        "Authored many reusable components, modules, and libraries optimized for maximum user satisfaction. Building stable and maintainable codebase using React. Design and implement user-friendly web applications, including component optimization. "
+      ]
     },
     {
       role: "Jr. Developer",
       company: "Rao Information Technology Pvt. Ltd.",
       companylogo: require("./assets/images/rao.jpg"),
       date: "Feb 2019 – Oct 2019",
-      desc: "I contributed to the development, maintenance, testing, and debugging of websites and applications as a junior developer. Take part in code reviews and provide colleagues feedback. Work together as a team to develop and implement new features. Write effective, readable, and tidy code. Debug and fix problems with the current codebase."
+      desc: "I contributed to the development, maintenance, testing, and debugging of websites and applications as a junior developer.",
+      descBullets:[
+        "Take part in code reviews and provide colleagues feedback. Work together as a team to develop and implement new features. Write effective, readable, and tidy code. Debug and fix problems with the current codebase."
+      ]
     }
   ]
 };
