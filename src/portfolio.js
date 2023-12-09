@@ -90,7 +90,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Express.js",
       fontAwesomeClassname: "fab fa-react",
-      logo: require("./assets/images/express.webp")
+      logo: require("./assets/images/ex.png")
     },
     {
       skillName: "Node.js",
@@ -183,7 +183,7 @@ https://fontawesome.com/icons?d=gallery */
       logo: require("./assets/images/jira.png")
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Education Section

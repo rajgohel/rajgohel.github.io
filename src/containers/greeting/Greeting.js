@@ -7,8 +7,9 @@ import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 
-import {illustration, greeting} from "../../portfolio";
+import {illustration, greeting, skillsSection} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
+import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 
 export default function Greeting() {
   const {isDark} = useContext(StyleContext);
@@ -50,16 +51,51 @@ export default function Greeting() {
               </div>
             </div>
           </div>
-          <div className="greeting-image-div">
+          {/* <div className="greeting-image-div">
             {illustration.animated ? (
-              <DisplayLottie animationData={landingPerson} />
-            ) : (
+              <DisplayLottie animationData={landingPerson} /> */}
+              <div className="skills-text-div">
+                <h1
+                  className={
+                    isDark ? "dark-mode skills-heading" : "skills-heading"
+                  }
+                >
+                  {skillsSection.title}{" "}
+                </h1>
+                <p
+                  className={
+                    isDark
+                      ? "dark-mode subTitle skills-text-subtitle"
+                      : "subTitle skills-text-subtitle"
+                  }
+                >
+                  {skillsSection.subTitle}
+                </p>
+                <SoftwareSkill />
+                <div>
+                  {skillsSection.skills.map((skills, i) => {
+                    return (
+                      <p
+                        key={i}
+                        className={
+                          isDark
+                            ? "dark-mode subTitle skills-text"
+                            : "subTitle skills-text"
+                        }
+                      >
+                        {skills}
+                      </p>
+                    );
+                  })}
+                </div>
+              </div>
+            {/* ) : (
               <img
                 alt="man sitting on table"
                 src={require("../../assets/images/manOnTable.svg")}
               ></img>
             )}
-          </div>
+          </div> */}
         </div>
       </div>
     </Fade>

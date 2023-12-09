@@ -17,8 +17,8 @@ export default function SoftwareSkill() {
                 {/* <i className={skills.fontAwesomeClassname}></i> */}
                 <img
                 crossOrigin={"anonymous"}
-                height={43}
-                width={45}
+                height={41}
+                width={42}
                 src={skills.logo}
                 alt={skills.skillName}
               />
