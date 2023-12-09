@@ -17,7 +17,7 @@ export default function Greeting() {
     return null;
   }
   return (
-    <Fade bottom duration={1000} distance="40px">
+    // <Fade bottom duration={1000} distance="40px">
       <div className="greet-main" id="greeting">
         <div className="greeting-main">
           <div className="greeting-text-div">
@@ -98,6 +98,6 @@ export default function Greeting() {
           </div> */}
         </div>
       </div>
-    </Fade>
+    // </Fade>
   );
 }
