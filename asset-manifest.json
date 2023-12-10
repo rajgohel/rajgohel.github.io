@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b00e7cd5.css",
-    "main.js": "/static/js/main.b480fbef.js",
+    "main.js": "/static/js/main.f2062335.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -18,7 +18,6 @@
     "static/media/typescript.png": "/static/media/typescript.659e4b9351cf1baa6930.png",
     "static/media/graphql.png": "/static/media/graphql.1224fc6637ab2be805ae.png",
     "static/media/aws.png": "/static/media/aws.850296a094250f4a242e.png",
-    "static/media/rao.jpg": "/static/media/rao.1a6a22cc13bb2c9e42c7.jpg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/CMS.png": "/static/media/CMS.8f6d581a90923ac71e87.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
@@ -35,7 +34,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.b00e7cd5.css.map": "/static/css/main.b00e7cd5.css.map",
-    "main.b480fbef.js.map": "/static/js/main.b480fbef.js.map",
+    "main.f2062335.js.map": "/static/js/main.f2062335.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -43,6 +42,6 @@
   },
   "entrypoints": [
     "static/css/main.b00e7cd5.css",
-    "static/js/main.b480fbef.js"
+    "static/js/main.f2062335.js"
   ]
 }
