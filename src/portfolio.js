@@ -240,7 +240,7 @@ const workExperiences = {
     },
     {
       role: "Sr. Software Developer",
-      company: "Service based company",
+      company: "Service Based Company",
       companylogo: require("./assets/images/work.png"),
       date: "Nov 2019 – Jul 2022",
       desc: "I was in charge of reviewing code for quality and functionality as a senior software developer.drafting and carrying out design blueprints.",
@@ -251,7 +251,7 @@ const workExperiences = {
     },
     {
       role: "Jr. Developer",
-      company: "Service based startup",
+      company: "Service Based Startup",
       companylogo: require("./assets/images/work.png"),
       date: "Feb 2019 – Oct 2019",
       desc: "I contributed to the development, maintenance, testing, and debugging of websites and applications as a junior developer.",
