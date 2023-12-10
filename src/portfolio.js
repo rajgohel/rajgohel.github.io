@@ -23,7 +23,7 @@ const greeting = {
   username: "Raj Gohel",
   title: "Hi all, I'm Raj",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Nextjs and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Nextjs and some other cool libraries and frameworks. My expertise lies in building scalable, efficient, and maintainable web applications that provide a seamless user experience."
   ),
   resumeLink:
     "https://flowcv-user-file-uploads-prod.s3.eu-central-1.amazonaws.com/websiteButton/yv11lbrwdidijs9omaay6nxscw.pdf", // Set to empty to hide the button
@@ -52,7 +52,7 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Having worked extensively with the Express framework and Node.js for server-side programming, I have created RESTful APIs and web servers that offer dependable and safe communication between the client and the server."),
     emoji(
       "⚡ Integration of third party services such as AWS / Azure"
     )
@@ -228,8 +228,8 @@ const workExperiences = {
   experience: [
     {
       role: "Frontend Developer",
-      company: "Dev Information Technology Ltd",
-      companylogo: require("./assets/images/devit.png"),
+      company: "CMMI Level 3 Company",
+      companylogo: require("./assets/images/work.png"),
       date: "Aug 2022 – Present",
       desc: "As a Frontend Developer, my duties included managing the development of the modules assigned to me and assisting the team in times of need.",
       descBullets: [
@@ -240,8 +240,8 @@ const workExperiences = {
     },
     {
       role: "Sr. Software Developer",
-      company: "SharepointEmpower Pvt. Ltd.",
-      companylogo: require("./assets/images/spe.jpg"),
+      company: "Service based company",
+      companylogo: require("./assets/images/work.png"),
       date: "Nov 2019 – Jul 2022",
       desc: "I was in charge of reviewing code for quality and functionality as a senior software developer.drafting and carrying out design blueprints.",
       descBullets: [
@@ -251,8 +251,8 @@ const workExperiences = {
     },
     {
       role: "Jr. Developer",
-      company: "Rao Information Technology Pvt. Ltd.",
-      companylogo: require("./assets/images/rao.jpg"),
+      company: "Service based startup",
+      companylogo: require("./assets/images/work.png"),
       date: "Feb 2019 – Oct 2019",
       desc: "I contributed to the development, maintenance, testing, and debugging of websites and applications as a junior developer.",
       descBullets:[
